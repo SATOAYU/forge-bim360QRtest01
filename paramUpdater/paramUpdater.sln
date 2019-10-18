@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "paramUpdater", "paramUpdater.csproj", "{2DF35E8F-198E-45FF-B3B1-FE437D49019B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateRVTParam", "..\updateRVTParam\UpdateRVTParam.csproj", "{9A402F71-D386-4E2D-9582-1E99CE87206D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF35E8F-198E-45FF-B3B1-FE437D49019B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF35E8F-198E-45FF-B3B1-FE437D49019B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF35E8F-198E-45FF-B3B1-FE437D49019B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF35E8F-198E-45FF-B3B1-FE437D49019B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A402F71-D386-4E2D-9582-1E99CE87206D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A402F71-D386-4E2D-9582-1E99CE87206D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A402F71-D386-4E2D-9582-1E99CE87206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A402F71-D386-4E2D-9582-1E99CE87206D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {047EE6D5-B3A2-43DD-BFC8-ACB962196904}
+	EndGlobalSection
+EndGlobal
